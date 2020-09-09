@@ -1,6 +1,6 @@
 # Holi-Soy-Nuevo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pepe20201/Holi-Soy-Nuevo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pepe20201/Holi-Soy-Nuevo/master?urlpath=lab)
 
 Monesvol is real.
 
